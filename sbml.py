@@ -1,6 +1,4 @@
 # Name: Ratan Singh Ahirwar
-# SBU ID:   112749385
-
 import ply.lex as lex
 import ply.yacc as yacc
 import traceback, sys
